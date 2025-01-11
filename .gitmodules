@@ -1,0 +1,3 @@
+[submodule "MLRepo/CyberSecurityRepo"]
+	path = MLRepo/CyberSecurityRepo
+	url = https://github.com/kshankar14/Intrusion-Detection-System.git
