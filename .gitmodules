@@ -1,3 +1,6 @@
 [submodule "MLRepo/CyberSecurityRepo"]
 	path = MLRepo/CyberSecurityRepo
 	url = https://github.com/kshankar14/Intrusion-Detection-System.git
+[submodule "MLRepo/ai-learnig-ref"]
+	path = MLRepo/ai-learnig-ref
+	url = https://github.com/ksmshankar/awesome-artificial-intelligence

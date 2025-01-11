@@ -1,0 +1,40 @@
+# Ignore Anaconda and Jupyter-related files
+.anaconda/
+.bash_history
+.cache/
+.conda/
+.condarc
+.continuum/
+.ipynb_checkpoints/
+.ipython/
+.jupyter/
+.virtual_documents/
+anaconda3/
+anaconda_projects/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore Windows user files
+AppData/
+Contacts/
+Downloads/
+Favorites/
+Links/
+Music/
+Saved Games/
+Searches/
+Videos/
+NTUSER.DAT*
+ntuser.dat.*
+OneDrive/
+ntuser.ini
+
+# Ignore Oracle and other directories
+Oracle/
+Preparation/
+hnswlib/
+mu_code/
+
+# Ignore any specific files or extensions
+Untitled.ipynb
