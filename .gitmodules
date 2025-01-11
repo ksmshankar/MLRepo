@@ -4,3 +4,12 @@
 [submodule "MLRepo/ai-learnig-ref"]
 	path = MLRepo/ai-learnig-ref
 	url = https://github.com/ksmshankar/awesome-artificial-intelligence
+[submodule "MLRepo/kshankar14Repo"]
+	path = MLRepo/kshankar14Repo
+	url = https://github.com/kshankar14/ML-From-Scratch
+[submodule "MLRepo/ML-From-Scratch"]
+	path = MLRepo/ML-From-Scratch
+	url = https://github.com/kshankar14/ML-From-Scratch
+[submodule "MLRepo/DLANG"]
+	path = MLRepo/DLANG
+	url = https://github.com/kshankar14/DeepLearningAndrewNG
